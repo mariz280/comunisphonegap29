@@ -5,14 +5,14 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "2010"
         version   = "2.9">
-    <name>Moodle Mobile</name>
+    <name>Comunis Mobile</name>
 
     <description>
-        Moodle Mobile official app
+        Comunis Mobile official app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Pty Ltd
+    <author href="http://www.comunis.org" email="soporte@comunis.org">
+        Comunis A.C.
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
